@@ -4,144 +4,138 @@
 <mei
     xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0"
     xmlns:xlink="http://www.w3.org/1999/xlink">
-   <meiHead>
-      <fileDesc>
-         <titleStmt>
-            <title>06 Missa sobre las voces - Gloria (Full Movement)</title>
-            <composer>Cristóbal de Morales</composer>
-            <funder>
-               <corpName>Brandeis University</corpName>
-            </funder>
-            <funder>
-               <corpName>National Endowment for the Humanities (NEH)</corpName>
-            </funder>
-            <respStmt>
-               <persName role="project director" auth="VIAF" auth.uri="http://viaf.org/viaf/" codedval="316001213">Karen Desmond</persName>
-               <persName role="encoder">MuRET</persName>
-               <persName role="encoder">Martha Eladia Thomae Elias</persName>
-               <persName role="editor">Martha Eladia Thomae Elias</persName>
-            </respStmt>
-         </titleStmt>
-         <pubStmt>
-            <publisher>
-               <persName>Karen Desmond</persName>
-               <corpName>Brandeis University</corpName>
-            </publisher>
-            <date>2022</date>
-            <availability>
-               <useRestrict>Available for purposes of academic research and teaching only.</useRestrict>
-            </availability>
-         </pubStmt>
-         <seriesStmt>
-            <title>Measuring Polyphony: Digital Encodings of Late Medieval Music</title>
-            <editor>
-               <persName>Karen Desmond</persName>
-            </editor>
-            <identifier>
-               <ref targettype="home_page" target="http://www.measuringpolyphony.org/"/>
-            </identifier>
-         </seriesStmt>
-         <notesStmt>
-            <annot label="original_clefs"/>
-            <annot label="commentary"/>
-         </notesStmt>
-         <sourceDesc>
-            <source targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/213/manifest.json">
-               <locus>19v.jpg</locus>
-            </source>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <appInfo>
-            <application xml:id="MPEditor">
-               <name>Measuring Polyphony Editor</name>
-            </application>
-            <application xml:id="an06i1q1" startdate="2023-09-08T20:29:23" version="1.0.0">
-               <name xml:id="n1i3l9h">mei-friend</name>
-               <p xml:id="prifg7l1">First edit by mei-friend 1.0.0, 4 September 2023.</p>
-            </application>
-         </appInfo>
-         <editorialDecl>
-            <p>This MEI encoding in mensural notation was made using the Measuring Polyphony Editor, transcribed from IIIF images of the original manuscript source one staff at a time, entering the pitches and rhythms for each stave using a combination of number and letter keystrokes. The Measuring Polyphony Editor generates two MEI files from this user input: an MEI parts file that captures each voice part entered, and an MEI score file that scores up the voice parts, which is viewable here.</p>
-         </editorialDecl>
-         <projectDesc>
-            <p>The Measuring Polyphony Editor, funded by a 2019-2020 NEH Digital Humanities Grant, is a prototype tool that allows a variety of modern readers (students and experts, musicologists, music theorists, those interested in the history of music notation, counterpoint, medieval palaeography and/or manuscript studies) to access and contribute transcriptions of music directly linked to digital images of the medieval manuscripts, and to learn about the original notation. This tool will offer new possibilities for the analysis and interpretation of late medieval music. In a broader humanities context, the project investigates how modeling the meanings of notational signs can lead to new understandings of the interaction between the sign and the signified, and of the relationship between notational style and changes in musical style across time and place.</p>
-         </projectDesc>
-      </encodingDesc>
-      <workList>
-         <work>
-            <identifier type="catalogue_number"/>
-            <title>06 Missa sobre las voces - Gloria (Full Movement)</title>
-            <composer>Cristóbal de Morales</composer>
-            <incip>
-               <incipText label="superius" corresp="#superius">
-                  <lg>
-                     <l>[SUPERIUS]</l>
-                  </lg>
-               </incipText>
-               <incipText label="altus" corresp="#altus">
-                  <lg>
-                     <l>[ALTUS]</l>
-                  </lg>
-               </incipText>
-               <incipText label="tenor" corresp="#tenor">
-                  <lg>
-                     <l>[TENOR]</l>
-                  </lg>
-               </incipText>
-               <incipText label="bassus" corresp="#bassus">
-                  <lg>
-                     <l>[BASSUS]</l>
-                  </lg>
-               </incipText>
-            </incip>
-            <classification>
-               <termList>
-                  <term>Mass Movement</term>
-               </termList>
-            </classification>
-         </work>
-      </workList>
-      <manifestationList>
-         <manifestation singleton="true">
+    <meiHead>
+        <fileDesc>
             <titleStmt>
-               <title>
-                  <identifier label="siglum">GuatC 1</identifier>
-               </title>
+                <title>06 Missa sobre las voces - Gloria (Full Movement)</title>
+                <composer>Cristóbal de Morales</composer>
+                <funder>
+                    <corpName>Brandeis University</corpName>
+                </funder>
+                <funder>
+                    <corpName>National Endowment for the Humanities (NEH)</corpName>
+                </funder>
+                <respStmt>
+                    <persName role="project director" auth="VIAF" auth.uri="http://viaf.org/viaf/" codedval="316001213">Karen Desmond</persName>
+                    <persName role="encoder">MuRET</persName>
+                    <persName role="encoder">Martha Eladia Thomae Elias</persName>
+                    <persName role="editor">Martha Eladia Thomae Elias</persName>
+                </respStmt>
             </titleStmt>
-            <physLoc>
-               <repository>
-                  <corpName>[LIBRARY NAME]</corpName>
-                  <identifier>[SHELFMARK]</identifier>
-                  <ptr targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/213/manifest.json"/>
-               </repository>
-            </physLoc>
+            <pubStmt>
+                <publisher>
+                    <persName>Karen Desmond</persName>
+                    <corpName>Brandeis University</corpName>
+                </publisher>
+                <date>2022</date>
+                <availability>
+                    <useRestrict>Available for purposes of academic research and teaching only.</useRestrict>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title>Measuring Polyphony: Digital Encodings of Late Medieval Music</title>
+                <editor>
+                    <persName>Karen Desmond</persName>
+                </editor>
+                <identifier>
+                    <ref targettype="home_page" target="http://www.measuringpolyphony.org/"/>
+                </identifier>
+            </seriesStmt>
             <notesStmt>
-               <annot>Primary manuscript source for this encoding.</annot>
+                <annot label="original_clefs"/>
+                <annot label="commentary"/>
             </notesStmt>
-         </manifestation>
-      </manifestationList>
-   </meiHead>
+            <sourceDesc>
+                <source targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/213/manifest.json">
+                    <locus>19v.jpg</locus>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="MPEditor">
+                    <name>Measuring Polyphony Editor</name>
+                </application>
+            </appInfo>
+            <editorialDecl>
+                <p>This MEI encoding in mensural notation was made using the Measuring Polyphony Editor, transcribed from IIIF images of the original manuscript source one staff at a time, entering the pitches and rhythms for each stave using a combination of number and letter keystrokes. The Measuring Polyphony Editor generates two MEI files from this user input: an MEI parts file that captures each voice part entered, and an MEI score file that scores up the voice parts, which is viewable here.</p>
+            </editorialDecl>
+            <projectDesc>
+                <p>The Measuring Polyphony Editor, funded by a 2019-2020 NEH Digital Humanities Grant, is a prototype tool that allows a variety of modern readers (students and experts, musicologists, music theorists, those interested in the history of music notation, counterpoint, medieval palaeography and/or manuscript studies) to access and contribute transcriptions of music directly linked to digital images of the medieval manuscripts, and to learn about the original notation. This tool will offer new possibilities for the analysis and interpretation of late medieval music. In a broader humanities context, the project investigates how modeling the meanings of notational signs can lead to new understandings of the interaction between the sign and the signified, and of the relationship between notational style and changes in musical style across time and place.</p>
+            </projectDesc>
+        </encodingDesc>
+        <workList>
+            <work>
+                <identifier type="catalogue_number"/>
+                <title>06 Missa sobre las voces - Gloria (Full Movement)</title>
+                <composer>Cristóbal de Morales</composer>
+                <incip>
+                    <incipText label="superius" corresp="#superius">
+                        <lg>
+                            <l>[SUPERIUS]</l>
+                        </lg>
+                    </incipText>
+                    <incipText label="altus" corresp="#altus">
+                        <lg>
+                            <l>[ALTUS]</l>
+                        </lg>
+                    </incipText>
+                    <incipText label="tenor" corresp="#tenor">
+                        <lg>
+                            <l>[TENOR]</l>
+                        </lg>
+                    </incipText>
+                    <incipText label="bassus" corresp="#bassus">
+                        <lg>
+                            <l>[BASSUS]</l>
+                        </lg>
+                    </incipText>
+                </incip>
+                <classification>
+                    <termList>
+                        <term>Mass Movement</term>
+                    </termList>
+                </classification>
+            </work>
+        </workList>
+        <manifestationList>
+            <manifestation singleton="true">
+                <titleStmt>
+                    <title>
+                        <identifier label="siglum">GuatC 1</identifier>
+                    </title>
+                </titleStmt>
+                <physLoc>
+                    <repository>
+                        <corpName>[LIBRARY NAME]</corpName>
+                        <identifier>[SHELFMARK]</identifier>
+                        <ptr targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/213/manifest.json"/>
+                    </repository>
+                </physLoc>
+                <notesStmt>
+                    <annot>Primary manuscript source for this encoding.</annot>
+                </notesStmt>
+            </manifestation>
+        </manifestationList>
+    </meiHead>
     <music>
         <facsimile>
             <surface xml:id="m-9b4d625c-3fe2-41b5-8a9a-0162679cf2ac">
                 <graphic xml:id="m-4c755235-2ac7-4ea9-9697-106987384596" target="https://muret.dlsi.ua.es/images/iiif/2/6%3A208:masters:1v.jpg/full/full/0/default.jpg">
+                    <zone xml:id="m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" ulx="258" uly="124" lrx="1115" lry="288"/>
+                    <zone xml:id="mb2738d05-5912-45f7-805e-48b698ed0b21" ulx="124" uly="288" lrx="1106" lry="450"/>
+                    <zone xml:id="m30f11df7-6378-4967-bc22-c35b35e8d3d9" ulx="130" uly="434" lrx="1097" lry="601"/>
+                    <zone xml:id="me79f3c43-0885-4605-b45c-e4cada18cd0b" ulx="132" uly="574" lrx="1098" lry="761"/>
+                    <zone xml:id="mf0d66a4f-9277-48c2-aeaf-ca3b6495dfed" ulx="263" uly="888" lrx="1104" lry="1058"/>
+                    <zone xml:id="m2b0afd6f-cf89-4093-a9ff-eced20b23d5a" ulx="134" uly="1029" lrx="1108" lry="1212"/>
+                    <zone xml:id="m49de1a2f-ddc1-4bc6-9656-fb5a5e17e537" ulx="142" uly="1200" lrx="1107" lry="1347"/>
+                    <zone xml:id="mf13b2a92-9603-4683-af56-f106b87ce29f" ulx="149" uly="1326" lrx="1111" lry="1491"/>
+                    <zone xml:id="m79c02d69-85ac-4847-ab3a-a1a21b38d694" ulx="144" uly="1481" lrx="1101" lry="1622"/>
                 </graphic>
-               <zone xml:id="m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" ulx="258" uly="124" lrx="1115" lry="288"/>
-               <zone xml:id="mb2738d05-5912-45f7-805e-48b698ed0b21" ulx="124" uly="288" lrx="1106" lry="450"/>
-                 <zone xml:id="m30f11df7-6378-4967-bc22-c35b35e8d3d9" ulx="130" uly="434" lrx="1097" lry="601"/>
-                 <zone xml:id="me79f3c43-0885-4605-b45c-e4cada18cd0b" ulx="132" uly="574" lrx="1098" lry="761"/>
-                 <zone xml:id="mf0d66a4f-9277-48c2-aeaf-ca3b6495dfed" ulx="263" uly="888" lrx="1104" lry="1058"/>
-                 <zone xml:id="m2b0afd6f-cf89-4093-a9ff-eced20b23d5a" ulx="134" uly="1029" lrx="1108" lry="1212"/>
-                 <zone xml:id="m49de1a2f-ddc1-4bc6-9656-fb5a5e17e537" ulx="142" uly="1200" lrx="1107" lry="1347"/>
-                 <zone xml:id="mf13b2a92-9603-4683-af56-f106b87ce29f" ulx="149" uly="1326" lrx="1111" lry="1491"/>
-                 <zone xml:id="m79c02d69-85ac-4847-ab3a-a1a21b38d694" ulx="144" uly="1481" lrx="1101" lry="1622"/>
-               <zone xml:id="z1eufz61" type="rest" ulx="425" uly="87" lrx="527" lry="194"/>
-           </surface>
+            </surface>
             <surface xml:id="m-9e21fe7a-4f8a-44c0-84ff-62c1663a2953">
-                <graphic xml:id="m-e0ae88d7-bc13-4bb1-b375-bea7fe9143c1" target="https://muret.dlsi.ua.es/images/iiif/2/6%3A208:masters:2r.jpg/full/full/0/default.jpg">
-                </graphic>
-               <zone xml:id="m10b13741-485c-44b1-b0bf-126b533a97e2" ulx="265" uly="93" lrx="1130" lry="271"/>
+                <graphic xml:id="m-e0ae88d7-bc13-4bb1-b375-bea7fe9143c1" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f7">
+                    <zone xml:id="m10b13741-485c-44b1-b0bf-126b533a97e2" ulx="265" uly="93" lrx="1130" lry="271"/>
                     <zone xml:id="m60cbbd92-b487-4d52-9cb7-04f4a92c48e7" ulx="129" uly="259" lrx="1113" lry="422"/>
                     <zone xml:id="mc90e325e-0747-4d35-a9a2-92eba359f828" ulx="271" uly="374" lrx="1141" lry="569"/>
                     <zone xml:id="m5367960e-e47c-4c20-997e-c96c41bb69d7" ulx="148" uly="541" lrx="1146" lry="722"/>
@@ -151,6 +145,7 @@
                     <zone xml:id="mb15ad8f3-5978-40a0-97b4-66b8297490ac" ulx="310" uly="1163" lrx="1148" lry="1329"/>
                     <zone xml:id="mb9efb3d3-c30a-4d59-8bd7-d0a2008ac4a4" ulx="194" uly="1323" lrx="1165" lry="1479"/>
                     <zone xml:id="m6cee0e30-b0c7-4c9f-8973-0cce70b36a42" ulx="194" uly="1470" lrx="1172" lry="1617"/>
+                </graphic>
             </surface>
             <surface xml:id="m-1ed7478a-1f56-406a-a38c-bc86358b4640">
                 <graphic xml:id="m-f46023da-83b3-40ef-97e5-029d48bf651c" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f9">
@@ -229,8 +224,8 @@
                         <staff n="1">
                             <layer n="1">
                                 <pb xml:id="pb1" facs="#m-9b4d625c-3fe2-41b5-8a9a-0162679cf2ac"/>
-                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A534022f0-314f-4eba-a10a-e610d45d6151" dur="semibrevis" facs="#z1eufz61"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A95dbe38a-2001-4f53-b5f1-b46666d034f0" dur="minima" oct="4" pname="g" dur.quality="perfecta" num="2" numbase="3" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060">
+                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A534022f0-314f-4eba-a10a-e610d45d6151" dur="semibrevis"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A95dbe38a-2001-4f53-b5f1-b46666d034f0" dur="minima" oct="4" pname="g" dur.quality="perfecta" num="2" numbase="3">
                                     <verse xml:id="m-2db6950a-3cc0-4856-959f-59f08cc49126" color="black" n="1">
                                         <syl xml:id="m-4a60b483-5cd0-42f6-8aa3-87d8b3633f14" con="b">19v.jpg,</syl>
                                         <syl xml:id="m-9007044c-f235-4391-8925-0c9a39cb295c" con="b">p1,</syl>
@@ -624,8 +619,7 @@
                         </staff>
                         <staff n="2">
                             <layer n="1">
-                               <pb xml:id="pb2" facs="#m-9e21fe7a-4f8a-44c0-84ff-62c1663a2953"/>
-                                <rest xml:id="PARTf1f461cf-8c11-4cbc-85b2-6a27438f2460_Ab2e755af-680f-4868-a3e5-122af04583d1" dur="longa" facs="#m10b13741-485c-44b1-b0bf-126b533a97e2"/>
+                                <rest xml:id="PARTf1f461cf-8c11-4cbc-85b2-6a27438f2460_Ab2e755af-680f-4868-a3e5-122af04583d1" dur="longa"/>
                                 <barLine form="dashed"/>
                                 <rest xml:id="PARTf1f461cf-8c11-4cbc-85b2-6a27438f2460_A1070fc5d-02dd-433d-9b88-d7f665b24606" dur="semibrevis"/>
                                 <rest xml:id="PARTf1f461cf-8c11-4cbc-85b2-6a27438f2460_A4b5b3df0-e061-416a-bd38-49a48216b1b1" dur="minima"/>
