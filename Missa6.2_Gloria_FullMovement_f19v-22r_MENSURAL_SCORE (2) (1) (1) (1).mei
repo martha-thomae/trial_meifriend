@@ -4,120 +4,124 @@
 <mei
     xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0"
     xmlns:xlink="http://www.w3.org/1999/xlink">
-    <meiHead>
-        <fileDesc>
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>06 Missa sobre las voces - Gloria (Full Movement)</title>
+            <composer>Cristóbal de Morales</composer>
+            <funder>
+               <corpName>Brandeis University</corpName>
+            </funder>
+            <funder>
+               <corpName>National Endowment for the Humanities (NEH)</corpName>
+            </funder>
+            <respStmt>
+               <persName role="project director" auth="VIAF" auth.uri="http://viaf.org/viaf/" codedval="316001213">Karen Desmond</persName>
+               <persName role="encoder">MuRET</persName>
+               <persName role="encoder">Martha Eladia Thomae Elias</persName>
+               <persName role="editor">Martha Eladia Thomae Elias</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt>
+            <publisher>
+               <persName>Karen Desmond</persName>
+               <corpName>Brandeis University</corpName>
+            </publisher>
+            <date>2022</date>
+            <availability>
+               <useRestrict>Available for purposes of academic research and teaching only.</useRestrict>
+            </availability>
+         </pubStmt>
+         <seriesStmt>
+            <title>Measuring Polyphony: Digital Encodings of Late Medieval Music</title>
+            <editor>
+               <persName>Karen Desmond</persName>
+            </editor>
+            <identifier>
+               <ref targettype="home_page" target="http://www.measuringpolyphony.org/"/>
+            </identifier>
+         </seriesStmt>
+         <notesStmt>
+            <annot label="original_clefs"/>
+            <annot label="commentary"/>
+         </notesStmt>
+         <sourceDesc>
+            <source targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/213/manifest.json">
+               <locus>19v.jpg</locus>
+            </source>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application xml:id="MPEditor">
+               <name>Measuring Polyphony Editor</name>
+            </application>
+            <application xml:id="ak00mr21" startdate="2023-09-27T18:48:58" version="1.0.0">
+               <name xml:id="n8pet86">mei-friend</name>
+               <p xml:id="pkpwbzv1">First edit by mei-friend 1.0.0, 4 September 2023.</p>
+            </application>
+         </appInfo>
+         <editorialDecl>
+            <p>This MEI encoding in mensural notation was made using the Measuring Polyphony Editor, transcribed from IIIF images of the original manuscript source one staff at a time, entering the pitches and rhythms for each stave using a combination of number and letter keystrokes. The Measuring Polyphony Editor generates two MEI files from this user input: an MEI parts file that captures each voice part entered, and an MEI score file that scores up the voice parts, which is viewable here.</p>
+         </editorialDecl>
+         <projectDesc>
+            <p>The Measuring Polyphony Editor, funded by a 2019-2020 NEH Digital Humanities Grant, is a prototype tool that allows a variety of modern readers (students and experts, musicologists, music theorists, those interested in the history of music notation, counterpoint, medieval palaeography and/or manuscript studies) to access and contribute transcriptions of music directly linked to digital images of the medieval manuscripts, and to learn about the original notation. This tool will offer new possibilities for the analysis and interpretation of late medieval music. In a broader humanities context, the project investigates how modeling the meanings of notational signs can lead to new understandings of the interaction between the sign and the signified, and of the relationship between notational style and changes in musical style across time and place.</p>
+         </projectDesc>
+      </encodingDesc>
+      <workList>
+         <work>
+            <identifier type="catalogue_number"/>
+            <title>06 Missa sobre las voces - Gloria (Full Movement)</title>
+            <composer>Cristóbal de Morales</composer>
+            <incip>
+               <incipText label="superius" corresp="#superius">
+                  <lg>
+                     <l>[SUPERIUS]</l>
+                  </lg>
+               </incipText>
+               <incipText label="altus" corresp="#altus">
+                  <lg>
+                     <l>[ALTUS]</l>
+                  </lg>
+               </incipText>
+               <incipText label="tenor" corresp="#tenor">
+                  <lg>
+                     <l>[TENOR]</l>
+                  </lg>
+               </incipText>
+               <incipText label="bassus" corresp="#bassus">
+                  <lg>
+                     <l>[BASSUS]</l>
+                  </lg>
+               </incipText>
+            </incip>
+            <classification>
+               <termList>
+                  <term>Mass Movement</term>
+               </termList>
+            </classification>
+         </work>
+      </workList>
+      <manifestationList>
+         <manifestation singleton="true">
             <titleStmt>
-                <title>06 Missa sobre las voces - Gloria (Full Movement)</title>
-                <composer>Cristóbal de Morales</composer>
-                <funder>
-                    <corpName>Brandeis University</corpName>
-                </funder>
-                <funder>
-                    <corpName>National Endowment for the Humanities (NEH)</corpName>
-                </funder>
-                <respStmt>
-                    <persName role="project director" auth="VIAF" auth.uri="http://viaf.org/viaf/" codedval="316001213">Karen Desmond</persName>
-                    <persName role="encoder">MuRET</persName>
-                    <persName role="encoder">Martha Eladia Thomae Elias</persName>
-                    <persName role="editor">Martha Eladia Thomae Elias</persName>
-                </respStmt>
+               <title>
+                  <identifier label="siglum">GuatC 1</identifier>
+               </title>
             </titleStmt>
-            <pubStmt>
-                <publisher>
-                    <persName>Karen Desmond</persName>
-                    <corpName>Brandeis University</corpName>
-                </publisher>
-                <date>2022</date>
-                <availability>
-                    <useRestrict>Available for purposes of academic research and teaching only.</useRestrict>
-                </availability>
-            </pubStmt>
-            <seriesStmt>
-                <title>Measuring Polyphony: Digital Encodings of Late Medieval Music</title>
-                <editor>
-                    <persName>Karen Desmond</persName>
-                </editor>
-                <identifier>
-                    <ref targettype="home_page" target="http://www.measuringpolyphony.org/"/>
-                </identifier>
-            </seriesStmt>
+            <physLoc>
+               <repository>
+                  <corpName>[LIBRARY NAME]</corpName>
+                  <identifier>[SHELFMARK]</identifier>
+                  <ptr targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/213/manifest.json"/>
+               </repository>
+            </physLoc>
             <notesStmt>
-                <annot label="original_clefs"/>
-                <annot label="commentary"/>
+               <annot>Primary manuscript source for this encoding.</annot>
             </notesStmt>
-            <sourceDesc>
-                <source targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/213/manifest.json">
-                    <locus>19v.jpg</locus>
-                </source>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <appInfo>
-                <application xml:id="MPEditor">
-                    <name>Measuring Polyphony Editor</name>
-                </application>
-            </appInfo>
-            <editorialDecl>
-                <p>This MEI encoding in mensural notation was made using the Measuring Polyphony Editor, transcribed from IIIF images of the original manuscript source one staff at a time, entering the pitches and rhythms for each stave using a combination of number and letter keystrokes. The Measuring Polyphony Editor generates two MEI files from this user input: an MEI parts file that captures each voice part entered, and an MEI score file that scores up the voice parts, which is viewable here.</p>
-            </editorialDecl>
-            <projectDesc>
-                <p>The Measuring Polyphony Editor, funded by a 2019-2020 NEH Digital Humanities Grant, is a prototype tool that allows a variety of modern readers (students and experts, musicologists, music theorists, those interested in the history of music notation, counterpoint, medieval palaeography and/or manuscript studies) to access and contribute transcriptions of music directly linked to digital images of the medieval manuscripts, and to learn about the original notation. This tool will offer new possibilities for the analysis and interpretation of late medieval music. In a broader humanities context, the project investigates how modeling the meanings of notational signs can lead to new understandings of the interaction between the sign and the signified, and of the relationship between notational style and changes in musical style across time and place.</p>
-            </projectDesc>
-        </encodingDesc>
-        <workList>
-            <work>
-                <identifier type="catalogue_number"/>
-                <title>06 Missa sobre las voces - Gloria (Full Movement)</title>
-                <composer>Cristóbal de Morales</composer>
-                <incip>
-                    <incipText label="superius" corresp="#superius">
-                        <lg>
-                            <l>[SUPERIUS]</l>
-                        </lg>
-                    </incipText>
-                    <incipText label="altus" corresp="#altus">
-                        <lg>
-                            <l>[ALTUS]</l>
-                        </lg>
-                    </incipText>
-                    <incipText label="tenor" corresp="#tenor">
-                        <lg>
-                            <l>[TENOR]</l>
-                        </lg>
-                    </incipText>
-                    <incipText label="bassus" corresp="#bassus">
-                        <lg>
-                            <l>[BASSUS]</l>
-                        </lg>
-                    </incipText>
-                </incip>
-                <classification>
-                    <termList>
-                        <term>Mass Movement</term>
-                    </termList>
-                </classification>
-            </work>
-        </workList>
-        <manifestationList>
-            <manifestation singleton="true">
-                <titleStmt>
-                    <title>
-                        <identifier label="siglum">GuatC 1</identifier>
-                    </title>
-                </titleStmt>
-                <physLoc>
-                    <repository>
-                        <corpName>[LIBRARY NAME]</corpName>
-                        <identifier>[SHELFMARK]</identifier>
-                        <ptr targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/213/manifest.json"/>
-                    </repository>
-                </physLoc>
-                <notesStmt>
-                    <annot>Primary manuscript source for this encoding.</annot>
-                </notesStmt>
-            </manifestation>
-        </manifestationList>
-    </meiHead>
+         </manifestation>
+      </manifestationList>
+   </meiHead>
     <music>
         <facsimile>
             <surface xml:id="m-9b4d625c-3fe2-41b5-8a9a-0162679cf2ac">
@@ -131,7 +135,7 @@
                 <zone xml:id="m49de1a2f-ddc1-4bc6-9656-fb5a5e17e537" ulx="142" uly="1200" lrx="1107" lry="1347"/>
                 <zone xml:id="mf13b2a92-9603-4683-af56-f106b87ce29f" ulx="149" uly="1326" lrx="1111" lry="1491"/>
                 <zone xml:id="m79c02d69-85ac-4847-ab3a-a1a21b38d694" ulx="144" uly="1481" lrx="1101" lry="1622"/>
-            </surface>
+           </surface>
             <surface xml:id="m-9e21fe7a-4f8a-44c0-84ff-62c1663a2953">
                 <graphic xml:id="m-e0ae88d7-bc13-4bb1-b375-bea7fe9143c1" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f7"/>
                 <zone xml:id="m10b13741-485c-44b1-b0bf-126b533a97e2" ulx="265" uly="93" lrx="1130" lry="271"/>
@@ -218,31 +222,31 @@
                         <staff n="1">
                             <layer n="1">
                                 <pb xml:id="pb1" facs="#m-9b4d625c-3fe2-41b5-8a9a-0162679cf2ac"/>
-                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A534022f0-314f-4eba-a10a-e610d45d6151" dur="semibrevis"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A95dbe38a-2001-4f53-b5f1-b46666d034f0" dur="minima" oct="4" pname="g" dur.quality="perfecta" num="2" numbase="3">
+                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A534022f0-314f-4eba-a10a-e610d45d6151" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="semibrevis"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A95dbe38a-2001-4f53-b5f1-b46666d034f0" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="4" pname="g" dur.quality="perfecta" num="2" numbase="3">
                                     <verse xml:id="m-2db6950a-3cc0-4856-959f-59f08cc49126" color="black" n="1">
                                         <syl xml:id="m-4a60b483-5cd0-42f6-8aa3-87d8b3633f14" con="b">19v.jpg,</syl>
                                         <syl xml:id="m-9007044c-f235-4391-8925-0c9a39cb295c" con="b">p1,</syl>
                                         <syl xml:id="m-8cc0709b-2a10-4dad-9c19-2b6cc3faa067">s1</syl>
                                     </verse>
                                 </note>
-                                <dot xml:id="m-88a35774-620d-4fcb-8ca4-2d6dd1c8635b" form="aug"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Afbd613f4-0aa2-4b58-bf30-bb29b8cb896d" dur="semiminima" oct="4" pname="a"/>
+                                <dot xml:id="m-88a35774-620d-4fcb-8ca4-2d6dd1c8635b" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" form="aug"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Afbd613f4-0aa2-4b58-bf30-bb29b8cb896d" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="semiminima" oct="4" pname="a"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A6b71edd0-4ae6-473a-8df8-9b165477467f" dur="minima" oct="4" pname="b"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Ac753fdd4-547f-4637-863e-93322cfe75d5" dur="minima" oct="5" pname="c"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A8c4a6ee4-6853-45cd-81bc-e004e34bbaaf" dur="minima" oct="5" pname="d"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A2683b404-f391-4a1d-a1b9-4ddf1da3aab0" dur="minima" oct="5" pname="e"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A6b71edd0-4ae6-473a-8df8-9b165477467f" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="4" pname="b"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Ac753fdd4-547f-4637-863e-93322cfe75d5" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="5" pname="c"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A8c4a6ee4-6853-45cd-81bc-e004e34bbaaf" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="5" pname="d"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A2683b404-f391-4a1d-a1b9-4ddf1da3aab0" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="5" pname="e"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A9fd1b5bb-e9f8-4f19-b918-8174554a3967" dur="minima" oct="5" pname="c"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A35c707fd-8f13-4ef2-8037-3f9dd021d55e" dur="minima" oct="5" pname="d"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A75d993d1-1b15-49ec-805a-b24cbcc2cff5" dur="minima" oct="5" pname="e"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A645e111b-2be8-46a2-bd41-55e2c749c0f0" dur="minima" oct="5" pname="g"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A9fd1b5bb-e9f8-4f19-b918-8174554a3967" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="5" pname="c"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A35c707fd-8f13-4ef2-8037-3f9dd021d55e" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="5" pname="d"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A75d993d1-1b15-49ec-805a-b24cbcc2cff5" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="5" pname="e"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A645e111b-2be8-46a2-bd41-55e2c749c0f0" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="5" pname="g"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A1e5638fb-f2fb-490c-bbc6-92fe504e5e53" dur="minima" oct="5" pname="f"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A1cc15bf6-cfd8-4829-978e-601ec396159e" dur="minima" oct="5" pname="e"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A29eec1e0-b775-4360-9214-fa924f863d96" dur="minima" oct="5" pname="d"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A2d239865-eb8d-490b-b205-62b636a1484b" dur="minima" oct="5" pname="c" dur.quality="perfecta" num="2" numbase="3">
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A1e5638fb-f2fb-490c-bbc6-92fe504e5e53" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="5" pname="f"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A1cc15bf6-cfd8-4829-978e-601ec396159e" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="5" pname="e"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A29eec1e0-b775-4360-9214-fa924f863d96" facs="#m040a8f54-a5d2-4b69-9ef0-8c6fc63bb060" dur="minima" oct="5" pname="d"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A2d239865-eb8d-490b-b205-62b636a1484b" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="5" pname="c" dur.quality="perfecta" num="2" numbase="3">
                                     <verse xml:id="m-4754f0fd-d58a-4d0d-800b-8a03bb90d291" color="black" n="1">
                                         <syl xml:id="m-b5f120c5-a950-49e8-b38a-3e1a8dbf7bc3" con="b">19v.jpg,</syl>
                                         <syl xml:id="m-5c5ee9ed-0d49-4830-9ed1-f70babe5cf2a" con="b">p1,</syl>
@@ -250,34 +254,34 @@
                                     </verse>
                                 </note>
                                 <dot xml:id="m-dedcb478-2799-469b-952c-009383427b48" form="aug"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A65166b8b-1d1b-4de8-b3c6-fe80207541af" dur="semiminima" oct="4" pname="b"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Acaf3b1b5-5e2f-4b5c-adbf-7d3520cec886" dur="minima" oct="4" pname="b"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Aea2d3cef-00eb-4f11-a2af-7a03661ce92c" dur="semibrevis" oct="4" pname="a"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A65166b8b-1d1b-4de8-b3c6-fe80207541af" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="semiminima" oct="4" pname="b"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Acaf3b1b5-5e2f-4b5c-adbf-7d3520cec886" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="4" pname="b"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Aea2d3cef-00eb-4f11-a2af-7a03661ce92c" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="semibrevis" oct="4" pname="a"/>
                                 <barLine form="dashed"/>
-                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Aa0eed36c-70b0-41f2-8124-4dc5d6fd190e" dur="minima"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A6fa8a4c4-41c5-4348-8665-7df3ad8f71b3" dur="minima" oct="5" pname="c"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A41ffd913-7772-4a63-8014-2baa4b8f9f4b" dur="minima" oct="4" pname="a"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Afc1669b8-5dee-420e-87a8-9ef95bfd3934" dur="minima" oct="4" pname="g"/>
+                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Aa0eed36c-70b0-41f2-8124-4dc5d6fd190e" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A6fa8a4c4-41c5-4348-8665-7df3ad8f71b3" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="5" pname="c"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A41ffd913-7772-4a63-8014-2baa4b8f9f4b" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="4" pname="a"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Afc1669b8-5dee-420e-87a8-9ef95bfd3934" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="4" pname="g"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A04f5dfe8-ec50-45e9-b2a9-52cc2bc5064f" dur="semibrevis" oct="5" pname="c"/>
-                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A07f20bb4-b8e1-4c88-b3a4-43e8665d92ca" dur="minima"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A2140f33c-bb96-4753-bb2e-02bc656788ab" dur="minima" oct="5" pname="c"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A04f5dfe8-ec50-45e9-b2a9-52cc2bc5064f" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="semibrevis" oct="5" pname="c"/>
+                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A07f20bb4-b8e1-4c88-b3a4-43e8665d92ca" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A2140f33c-bb96-4753-bb2e-02bc656788ab" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="5" pname="c"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Aead4c2f4-65be-4105-8326-3cb52f55d9a3" dur="minima" oct="5" pname="c"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Ab11eeb76-bc06-45be-9b9a-387ab123d3d7" dur="minima" oct="5" pname="c"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Aa3cdf1ad-ff2b-4449-87b7-5837e03b85b2" dur="minima" oct="4" pname="a"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A3de3926b-6d5d-4afc-ba92-400557a7b2a7" dur="minima" oct="4" pname="g"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Aead4c2f4-65be-4105-8326-3cb52f55d9a3" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="5" pname="c"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Ab11eeb76-bc06-45be-9b9a-387ab123d3d7" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="5" pname="c"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Aa3cdf1ad-ff2b-4449-87b7-5837e03b85b2" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="4" pname="a"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A3de3926b-6d5d-4afc-ba92-400557a7b2a7" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="4" pname="g"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A6d99f789-a1a0-4e20-ac0a-624a05ac50ab" dur="semibrevis" oct="5" pname="c"/>
-                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Ab8a7efbb-0e42-42ff-8e9a-35d8744e21a4" dur="semibrevis"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A6d99f789-a1a0-4e20-ac0a-624a05ac50ab" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="semibrevis" oct="5" pname="c"/>
+                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Ab8a7efbb-0e42-42ff-8e9a-35d8744e21a4" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="semibrevis"/>
                                 <barLine form="dashed"/>
-                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A7a2051d1-9807-4687-b81e-ea8cc76eba1b" dur="minima"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A4cbdbb6c-a94f-4b01-8217-0c2c37c4e28d" dur="semibrevis" oct="5" pname="c"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Afbc91471-55ad-4c3f-a059-f8ea30411244" dur="minima" oct="5" pname="c"/>
+                                <rest xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A7a2051d1-9807-4687-b81e-ea8cc76eba1b" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A4cbdbb6c-a94f-4b01-8217-0c2c37c4e28d" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="semibrevis" oct="5" pname="c"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Afbc91471-55ad-4c3f-a059-f8ea30411244" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="5" pname="c"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A9ab91601-432d-4736-a5ca-6817ea903dba" dur="minima" oct="4" pname="a"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Aaa682d21-0772-4cbd-bbb7-73c12cfb7945" dur="minima" oct="4" pname="g"/>
-                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A1619db78-c3e9-4c62-bb0e-5152fcba5296" dur="minima" oct="5" pname="c">
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A9ab91601-432d-4736-a5ca-6817ea903dba" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="4" pname="a"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_Aaa682d21-0772-4cbd-bbb7-73c12cfb7945" facs="#mb2738d05-5912-45f7-805e-48b698ed0b21" dur="minima" oct="4" pname="g"/>
+                                <note xml:id="PARTb4b7b905-10db-4a01-8ada-d11f114bfca7_A1619db78-c3e9-4c62-bb0e-5152fcba5296" facs="#m30f11df7-6378-4967-bc22-c35b35e8d3d9" dur="minima" oct="5" pname="c">
                                     <verse xml:id="m-75fd851a-e362-4209-8e56-05f333baf3c7" color="black" n="1">
                                         <syl xml:id="m-9f8f3621-2aed-47ea-99e9-7346067d7db8" con="b">19v.jpg,</syl>
                                         <syl xml:id="m-86522d74-e1c7-474b-9f9c-cd5d4b5c56dd" con="b">p1,</syl>
