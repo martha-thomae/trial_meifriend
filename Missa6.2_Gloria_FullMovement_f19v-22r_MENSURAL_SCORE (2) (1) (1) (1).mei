@@ -133,67 +133,62 @@
                 <zone xml:id="m79c02d69-85ac-4847-ab3a-a1a21b38d694" ulx="144" uly="1481" lrx="1101" lry="1622"/>
             </surface>
             <surface xml:id="m-9e21fe7a-4f8a-44c0-84ff-62c1663a2953">
-                <graphic xml:id="m-e0ae88d7-bc13-4bb1-b375-bea7fe9143c1" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f7">
-                    <zone xml:id="m10b13741-485c-44b1-b0bf-126b533a97e2" ulx="265" uly="93" lrx="1130" lry="271"/>
-                    <zone xml:id="m60cbbd92-b487-4d52-9cb7-04f4a92c48e7" ulx="129" uly="259" lrx="1113" lry="422"/>
-                    <zone xml:id="mc90e325e-0747-4d35-a9a2-92eba359f828" ulx="271" uly="374" lrx="1141" lry="569"/>
-                    <zone xml:id="m5367960e-e47c-4c20-997e-c96c41bb69d7" ulx="148" uly="541" lrx="1146" lry="722"/>
-                    <zone xml:id="m2da670e3-0636-4326-9014-0c360643968a" ulx="147" uly="662" lrx="1142" lry="867"/>
-                    <zone xml:id="m61937959-fa7c-42c2-b52d-76082df5e50b" ulx="231" uly="875" lrx="1138" lry="1051"/>
-                    <zone xml:id="mc5d76e25-b382-4d8c-afd5-72d520fcd154" ulx="173" uly="1024" lrx="1125" lry="1191"/>
-                    <zone xml:id="mb15ad8f3-5978-40a0-97b4-66b8297490ac" ulx="310" uly="1163" lrx="1148" lry="1329"/>
-                    <zone xml:id="mb9efb3d3-c30a-4d59-8bd7-d0a2008ac4a4" ulx="194" uly="1323" lrx="1165" lry="1479"/>
-                    <zone xml:id="m6cee0e30-b0c7-4c9f-8973-0cce70b36a42" ulx="194" uly="1470" lrx="1172" lry="1617"/>
-                </graphic>
+                <graphic xml:id="m-e0ae88d7-bc13-4bb1-b375-bea7fe9143c1" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f7"/>
+                <zone xml:id="m10b13741-485c-44b1-b0bf-126b533a97e2" ulx="265" uly="93" lrx="1130" lry="271"/>
+                <zone xml:id="m60cbbd92-b487-4d52-9cb7-04f4a92c48e7" ulx="129" uly="259" lrx="1113" lry="422"/>
+                <zone xml:id="mc90e325e-0747-4d35-a9a2-92eba359f828" ulx="271" uly="374" lrx="1141" lry="569"/>
+                <zone xml:id="m5367960e-e47c-4c20-997e-c96c41bb69d7" ulx="148" uly="541" lrx="1146" lry="722"/>
+                <zone xml:id="m2da670e3-0636-4326-9014-0c360643968a" ulx="147" uly="662" lrx="1142" lry="867"/>
+                <zone xml:id="m61937959-fa7c-42c2-b52d-76082df5e50b" ulx="231" uly="875" lrx="1138" lry="1051"/>
+                <zone xml:id="mc5d76e25-b382-4d8c-afd5-72d520fcd154" ulx="173" uly="1024" lrx="1125" lry="1191"/>
+                <zone xml:id="mb15ad8f3-5978-40a0-97b4-66b8297490ac" ulx="310" uly="1163" lrx="1148" lry="1329"/>
+                <zone xml:id="mb9efb3d3-c30a-4d59-8bd7-d0a2008ac4a4" ulx="194" uly="1323" lrx="1165" lry="1479"/>
+                <zone xml:id="m6cee0e30-b0c7-4c9f-8973-0cce70b36a42" ulx="194" uly="1470" lrx="1172" lry="1617"/>
             </surface>
             <surface xml:id="m-1ed7478a-1f56-406a-a38c-bc86358b4640">
-                <graphic xml:id="m-f46023da-83b3-40ef-97e5-029d48bf651c" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f9">
-                    <zone xml:id="m29042dbb-f678-4b2b-9067-f496c64ce189" ulx="308" uly="105" lrx="1159" lry="287"/>
-                    <zone xml:id="m07e8028f-e4b6-465d-b3ec-60b3f556f568" ulx="172" uly="300" lrx="1154" lry="438"/>
-                    <zone xml:id="m57e14fe7-d172-4df0-b9fa-f722143b1a08" ulx="168" uly="420" lrx="1150" lry="592"/>
-                    <zone xml:id="m816c0ef3-e08f-48cd-bd8e-d9017ff19ba8" ulx="173" uly="610" lrx="1129" lry="750"/>
-                    <zone xml:id="m0c198532-10fd-4000-9b77-28abe8c3bf7e" ulx="326" uly="892" lrx="1148" lry="1033"/>
-                    <zone xml:id="m17346145-4d80-47ef-b5db-4bd37ada5075" ulx="183" uly="1043" lrx="1140" lry="1179"/>
-                    <zone xml:id="m6b7571a3-c581-4241-8ee1-35e0c1165e99" ulx="181" uly="1199" lrx="1141" lry="1334"/>
-                    <zone xml:id="me084f50e-8074-4ef8-872b-d1829deb0c3c" ulx="189" uly="1352" lrx="1135" lry="1491"/>
-                </graphic>
+                <graphic xml:id="m-f46023da-83b3-40ef-97e5-029d48bf651c" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f9"/>
+                <zone xml:id="m29042dbb-f678-4b2b-9067-f496c64ce189" ulx="308" uly="105" lrx="1159" lry="287"/>
+                <zone xml:id="m07e8028f-e4b6-465d-b3ec-60b3f556f568" ulx="172" uly="300" lrx="1154" lry="438"/>
+                <zone xml:id="m57e14fe7-d172-4df0-b9fa-f722143b1a08" ulx="168" uly="420" lrx="1150" lry="592"/>
+                <zone xml:id="m816c0ef3-e08f-48cd-bd8e-d9017ff19ba8" ulx="173" uly="610" lrx="1129" lry="750"/>
+                <zone xml:id="m0c198532-10fd-4000-9b77-28abe8c3bf7e" ulx="326" uly="892" lrx="1148" lry="1033"/>
+                <zone xml:id="m17346145-4d80-47ef-b5db-4bd37ada5075" ulx="183" uly="1043" lrx="1140" lry="1179"/>
+                <zone xml:id="m6b7571a3-c581-4241-8ee1-35e0c1165e99" ulx="181" uly="1199" lrx="1141" lry="1334"/>
+                <zone xml:id="me084f50e-8074-4ef8-872b-d1829deb0c3c" ulx="189" uly="1352" lrx="1135" lry="1491"/>
             </surface>
             <surface xml:id="m-6e68cbd8-bc14-440a-ba31-8ab3525273b2">
-                <graphic xml:id="m-52476ccd-2c4a-4b45-8f33-339037278a21" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f6">
-                    <zone xml:id="mce2f07e4-fec2-44cc-aedb-96ed6722d490" ulx="350" uly="102" lrx="1186" lry="256"/>
-                    <zone xml:id="m63691ff8-4021-4a85-b2f8-ba1fce59c22a" ulx="189" uly="251" lrx="1183" lry="410"/>
-                    <zone xml:id="mddf281e5-02b9-48bd-b4c4-87c4b4431c46" ulx="189" uly="411" lrx="1174" lry="556"/>
-                    <zone xml:id="mc5328d23-0a45-406d-b504-257fae288443" ulx="185" uly="572" lrx="1176" lry="719"/>
-                    <zone xml:id="mc12b4247-dde0-499d-857b-72c5d6bfbfd0" ulx="318" uly="890" lrx="1150" lry="1047"/>
-                    <zone xml:id="m29b85db4-50fc-425f-80dc-dcf3b5ce9e5f" ulx="177" uly="1039" lrx="1144" lry="1213"/>
-                    <zone xml:id="m17853218-067f-41a4-bf29-d7af5c1e0faf" ulx="162" uly="1198" lrx="1134" lry="1357"/>
-                    <zone xml:id="mcb249d85-f7c3-4823-af51-848a87bf8a06" ulx="160" uly="1354" lrx="1103" lry="1490"/>
-                </graphic>
+                <graphic xml:id="m-52476ccd-2c4a-4b45-8f33-339037278a21" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f6"/>
+                <zone xml:id="mce2f07e4-fec2-44cc-aedb-96ed6722d490" ulx="350" uly="102" lrx="1186" lry="256"/>
+                <zone xml:id="m63691ff8-4021-4a85-b2f8-ba1fce59c22a" ulx="189" uly="251" lrx="1183" lry="410"/>
+                <zone xml:id="mddf281e5-02b9-48bd-b4c4-87c4b4431c46" ulx="189" uly="411" lrx="1174" lry="556"/>
+                <zone xml:id="mc5328d23-0a45-406d-b504-257fae288443" ulx="185" uly="572" lrx="1176" lry="719"/>
+                <zone xml:id="mc12b4247-dde0-499d-857b-72c5d6bfbfd0" ulx="318" uly="890" lrx="1150" lry="1047"/>
+                <zone xml:id="m29b85db4-50fc-425f-80dc-dcf3b5ce9e5f" ulx="177" uly="1039" lrx="1144" lry="1213"/>
+                <zone xml:id="m17853218-067f-41a4-bf29-d7af5c1e0faf" ulx="162" uly="1198" lrx="1134" lry="1357"/>
+                <zone xml:id="mcb249d85-f7c3-4823-af51-848a87bf8a06" ulx="160" uly="1354" lrx="1103" lry="1490"/>
             </surface>
             <surface xml:id="m-352dae48-76b2-4090-be38-b5c76c056615">
-                <graphic xml:id="m-83ec42c5-04a3-45fd-9de5-1fe89b5e25e4" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f8">
-                    <zone xml:id="m0014065b-b405-4911-9b2b-fc64bf86f540" ulx="313" uly="88" lrx="1151" lry="253"/>
-                    <zone xml:id="m3f481e3e-ff66-402a-b5f2-fa0f144aff99" ulx="179" uly="262" lrx="1129" lry="401"/>
-                    <zone xml:id="m483e3217-eb89-4340-9ca0-717e80a0c1d6" ulx="316" uly="415" lrx="1155" lry="548"/>
-                    <zone xml:id="mb56dcd8e-f52a-49c5-b194-4fc6b70ec154" ulx="193" uly="546" lrx="1165" lry="687"/>
-                    <zone xml:id="md0abad6e-a34f-4722-aea4-37440208470e" ulx="196" uly="698" lrx="1167" lry="837"/>
-                    <zone xml:id="m107668f9-8edf-46e1-836f-23c1c6151e35" ulx="334" uly="901" lrx="1167" lry="1051"/>
-                    <zone xml:id="ma5771741-468b-48fc-ac34-28719c03ddd3" ulx="195" uly="1048" lrx="1168" lry="1189"/>
-                    <zone xml:id="m4570a20c-5d2d-44c3-b6c8-c54b0c8072b9" ulx="196" uly="1182" lrx="1148" lry="1328"/>
-                    <zone xml:id="m1b7f4181-dac1-41ae-9cd7-5300daa6437c" ulx="336" uly="1316" lrx="1187" lry="1459"/>
-                    <zone xml:id="m9164521f-1123-4d87-a93e-2df7bc9bf60d" ulx="194" uly="1465" lrx="1186" lry="1613"/>
-                </graphic>
+                <graphic xml:id="m-83ec42c5-04a3-45fd-9de5-1fe89b5e25e4" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f8"/>
+                <zone xml:id="m0014065b-b405-4911-9b2b-fc64bf86f540" ulx="313" uly="88" lrx="1151" lry="253"/>
+                <zone xml:id="m3f481e3e-ff66-402a-b5f2-fa0f144aff99" ulx="179" uly="262" lrx="1129" lry="401"/>
+                <zone xml:id="m483e3217-eb89-4340-9ca0-717e80a0c1d6" ulx="316" uly="415" lrx="1155" lry="548"/>
+                <zone xml:id="mb56dcd8e-f52a-49c5-b194-4fc6b70ec154" ulx="193" uly="546" lrx="1165" lry="687"/>
+                <zone xml:id="md0abad6e-a34f-4722-aea4-37440208470e" ulx="196" uly="698" lrx="1167" lry="837"/>
+                <zone xml:id="m107668f9-8edf-46e1-836f-23c1c6151e35" ulx="334" uly="901" lrx="1167" lry="1051"/>
+                <zone xml:id="ma5771741-468b-48fc-ac34-28719c03ddd3" ulx="195" uly="1048" lrx="1168" lry="1189"/>
+                <zone xml:id="m4570a20c-5d2d-44c3-b6c8-c54b0c8072b9" ulx="196" uly="1182" lrx="1148" lry="1328"/>
+                <zone xml:id="m1b7f4181-dac1-41ae-9cd7-5300daa6437c" ulx="336" uly="1316" lrx="1187" lry="1459"/>
+                <zone xml:id="m9164521f-1123-4d87-a93e-2df7bc9bf60d" ulx="194" uly="1465" lrx="1186" lry="1613"/>
             </surface>
             <surface xml:id="m-aba041aa-d317-4309-af7a-01f9f4c53015">
-                <graphic xml:id="m-9a23bf70-aff9-4388-9e2c-6b61a98258fb" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f10">
-                    <zone xml:id="mde0cf375-2170-4984-a5fc-8dd14f9fb578" ulx="305" uly="109" lrx="1150" lry="284"/>
-                    <zone xml:id="m56c4fad2-5be3-4e99-b900-b5b31b9b3c75" ulx="179" uly="279" lrx="1150" lry="420"/>
-                    <zone xml:id="m298dd3de-4a6d-4c3c-96b2-46e5767742bd" ulx="178" uly="432" lrx="1146" lry="578"/>
-                    <zone xml:id="ma8bee636-a66d-4997-9c8e-6b6f03e4cb05" ulx="184" uly="582" lrx="1133" lry="749"/>
-                    <zone xml:id="m35a01af7-1133-4ccf-8789-38d0f2d9d2bb" ulx="319" uly="895" lrx="1150" lry="1052"/>
-                    <zone xml:id="mf1dab60e-ab63-42dc-89cf-4f8b58b40392" ulx="183" uly="1043" lrx="1155" lry="1213"/>
-                    <zone xml:id="m171c839c-fdfc-4271-9ac1-d8c27cc0b079" ulx="174" uly="1194" lrx="1134" lry="1351"/>
-                </graphic>
+                <graphic xml:id="m-9a23bf70-aff9-4388-9e2c-6b61a98258fb" target="https://muret.dlsi.ua.es/iiif/6:213/canvas/f10"/>
+                <zone xml:id="mde0cf375-2170-4984-a5fc-8dd14f9fb578" ulx="305" uly="109" lrx="1150" lry="284"/>
+                <zone xml:id="m56c4fad2-5be3-4e99-b900-b5b31b9b3c75" ulx="179" uly="279" lrx="1150" lry="420"/>
+                <zone xml:id="m298dd3de-4a6d-4c3c-96b2-46e5767742bd" ulx="178" uly="432" lrx="1146" lry="578"/>
+                <zone xml:id="ma8bee636-a66d-4997-9c8e-6b6f03e4cb05" ulx="184" uly="582" lrx="1133" lry="749"/>
+                <zone xml:id="m35a01af7-1133-4ccf-8789-38d0f2d9d2bb" ulx="319" uly="895" lrx="1150" lry="1052"/>
+                <zone xml:id="mf1dab60e-ab63-42dc-89cf-4f8b58b40392" ulx="183" uly="1043" lrx="1155" lry="1213"/>
+                <zone xml:id="m171c839c-fdfc-4271-9ac1-d8c27cc0b079" ulx="174" uly="1194" lrx="1134" lry="1351"/>
             </surface>
         </facsimile>
         <body>
