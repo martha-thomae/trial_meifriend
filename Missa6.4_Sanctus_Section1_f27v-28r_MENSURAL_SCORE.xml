@@ -174,6 +174,7 @@
                     <section>
                         <staff n="1">
                             <layer n="1">
+                                <pb xml:id="pb1" facs="#m-f5542b4e-e5f6-443c-be55-22583dc9e2c2"/>
                                 <rest xml:id="PART78a5d400-4ff9-4d67-8010-90c3e14645b4_A13a604ec-3344-4cd8-8168-14546ceb0cb8" dur="brevis"/>
                                 <barLine form="dashed"/>
                                 <rest xml:id="PART78a5d400-4ff9-4d67-8010-90c3e14645b4_A311317f5-b5bd-4162-a9e0-735a96674aa3" dur="semibrevis"/>
