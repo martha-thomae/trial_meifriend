@@ -174,7 +174,7 @@
                     <section>
                         <staff n="1">
                             <layer n="1">
-                                <pb xml:id="pb1_top" facs="#m-f5542b4e-e5f6-443c-be55-22583dc9e2c2"/>
+                                <pb xml:id="pb1" facs="#m-f5542b4e-e5f6-443c-be55-22583dc9e2c2"/>
                                 <rest xml:id="PART78a5d400-4ff9-4d67-8010-90c3e14645b4_A13a604ec-3344-4cd8-8168-14546ceb0cb8" facs="#m341a0bc4-d1fd-4cb6-af15-85bb442083b3" dur="brevis"/>
                                 <barLine form="dashed"/>
                                 <rest xml:id="PART78a5d400-4ff9-4d67-8010-90c3e14645b4_A311317f5-b5bd-4162-a9e0-735a96674aa3" facs="#m341a0bc4-d1fd-4cb6-af15-85bb442083b3" dur="semibrevis"/>
@@ -497,34 +497,33 @@
                         </staff>
                         <staff n="3">
                             <layer n="1">
-                                <pb xml:id="pb1_bottom" facs="#m-f5542b4e-e5f6-443c-be55-22583dc9e2c2"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Ac515ed05-3fd9-4f9d-86b5-9e591518fcab" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="semibrevis" oct="3" pname="g" dur.quality="perfecta" num="2" numbase="3">
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Ac515ed05-3fd9-4f9d-86b5-9e591518fcab" dur="semibrevis" oct="3" pname="g" dur.quality="perfecta" num="2" numbase="3">
                                     <verse xml:id="m-003be7b5-cc3d-4239-a4e0-42c3fa227a32" color="black" n="1">
                                         <syl xml:id="m-29d8ad2d-8bf4-4942-9b6f-2a91c1bb8394" con="b">27v.jpg,</syl>
                                         <syl xml:id="m-c9d6248e-0108-4b7d-bf2a-00bbfe43089a" con="b">p1,</syl>
                                         <syl xml:id="m-19a1ee47-28ce-4669-9158-2429dd5131a2">s6</syl>
                                     </verse>
                                 </note>
-                                <dot xml:id="m-697c5c11-cb54-44b7-a3dc-8046cea02b65" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" form="aug"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6fa5b186-2e17-4466-a004-600b5fb9ca11" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="minima" oct="3" pname="a"/>
+                                <dot xml:id="m-697c5c11-cb54-44b7-a3dc-8046cea02b65" form="aug"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6fa5b186-2e17-4466-a004-600b5fb9ca11" dur="minima" oct="3" pname="a"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A4c2fb907-c9ae-4fdc-827c-ad4a5293ff07" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="minima" oct="3" pname="b"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A70f25698-9ced-49f4-a874-0b78f4313e78" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="minima" oct="4" pname="c" dur.quality="perfecta" num="2" numbase="3"/>
-                                <dot xml:id="m-51573cbd-a691-4ead-928d-18822eb4e10c" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" form="aug"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa2fb8980-7eb9-4015-8c98-e925c312daf3" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="semiminima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Ac927510a-cd41-4fff-b8cc-701d407c832d" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="semibrevis" oct="4" pname="e"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A2434c6b3-4705-452e-9fba-e3059270b0e5" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="semiminima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A34cd7eb9-624a-464c-9f24-34067b792193" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="semiminima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A3ffbc573-8270-4de5-ad5f-c0721072ffb4" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="minima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Af0256070-13ef-4cd8-9e69-b65afe3522b0" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A4c2fb907-c9ae-4fdc-827c-ad4a5293ff07" dur="minima" oct="3" pname="b"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A70f25698-9ced-49f4-a874-0b78f4313e78" dur="minima" oct="4" pname="c" dur.quality="perfecta" num="2" numbase="3"/>
+                                <dot xml:id="m-51573cbd-a691-4ead-928d-18822eb4e10c" form="aug"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa2fb8980-7eb9-4015-8c98-e925c312daf3" dur="semiminima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Ac927510a-cd41-4fff-b8cc-701d407c832d" dur="semibrevis" oct="4" pname="e"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A2434c6b3-4705-452e-9fba-e3059270b0e5" dur="semiminima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A34cd7eb9-624a-464c-9f24-34067b792193" dur="semiminima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A3ffbc573-8270-4de5-ad5f-c0721072ffb4" dur="minima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Af0256070-13ef-4cd8-9e69-b65afe3522b0" dur="minima" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Adbab60c0-b170-4cbe-ac87-f47e0d6e4ec9" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="semibrevis" oct="4" pname="f"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A2adaf806-d648-4288-9b68-776e08f24aa8" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="semibrevis" oct="4" pname="e" dur.quality="perfecta" num="2" numbase="3"/>
-                                <dot xml:id="m-d5e0a70e-d1ba-4bfd-a3fb-cacc4e9c209b" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" form="aug"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6083348a-4fa6-4a91-98e6-5f045809f958" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="minima" oct="3" pname="a"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6d13a452-9b03-4aa5-8287-7e700d57c872" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="minima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A8612cf8b-e6e3-487b-9568-779b6e8cb47d" facs="#mcaea7325-514e-419e-ab4a-5eef807452c3" dur="semiminima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A13ce6505-b0ea-418b-86ff-fc6a55a64af4" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="semiminima" oct="3" pname="b">
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Adbab60c0-b170-4cbe-ac87-f47e0d6e4ec9" dur="semibrevis" oct="4" pname="f"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A2adaf806-d648-4288-9b68-776e08f24aa8" dur="semibrevis" oct="4" pname="e" dur.quality="perfecta" num="2" numbase="3"/>
+                                <dot xml:id="m-d5e0a70e-d1ba-4bfd-a3fb-cacc4e9c209b" form="aug"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6083348a-4fa6-4a91-98e6-5f045809f958" dur="minima" oct="3" pname="a"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6d13a452-9b03-4aa5-8287-7e700d57c872" dur="minima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A8612cf8b-e6e3-487b-9568-779b6e8cb47d" dur="semiminima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A13ce6505-b0ea-418b-86ff-fc6a55a64af4" dur="semiminima" oct="3" pname="b">
                                     <verse xml:id="m-0561fda5-b3f8-4d22-8fe9-f82e52ea07f3" color="black" n="1">
                                         <syl xml:id="m-d298bbd5-77d3-4db1-a3a2-9a3e0c8adb67" con="b">27v.jpg,</syl>
                                         <syl xml:id="m-c07b23ab-0644-4e3f-8308-230e970ae8bb" con="b">p1,</syl>
@@ -532,124 +531,124 @@
                                     </verse>
                                 </note>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Adbba11a1-23de-40ec-9e1c-e5235f848939" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A25835fd5-45c3-4c9f-9f20-3d0cd312d8ed" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A04798c45-ed53-4efb-9a09-a8618e870b8d" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="3" pname="b"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A691dcfa0-f8ed-4410-b76f-71e4fd66ad9f" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Adbba11a1-23de-40ec-9e1c-e5235f848939" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A25835fd5-45c3-4c9f-9f20-3d0cd312d8ed" dur="minima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A04798c45-ed53-4efb-9a09-a8618e870b8d" dur="minima" oct="3" pname="b"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A691dcfa0-f8ed-4410-b76f-71e4fd66ad9f" dur="minima" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
-                                <rest xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6fdd393e-e275-4389-8fc1-ed18801c539b" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Ad3728a53-1a03-4ac6-8adc-cd18fdfc586f" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="3" pname="g"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6a006681-dc5f-4062-830e-ad6962091bbf" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="3" pname="a"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A26de1145-1add-4951-9361-d9ff2d2ffefc" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="3" pname="b"/>
+                                <rest xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6fdd393e-e275-4389-8fc1-ed18801c539b" dur="minima"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Ad3728a53-1a03-4ac6-8adc-cd18fdfc586f" dur="minima" oct="3" pname="g"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6a006681-dc5f-4062-830e-ad6962091bbf" dur="minima" oct="3" pname="a"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A26de1145-1add-4951-9361-d9ff2d2ffefc" dur="minima" oct="3" pname="b"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A8ccd1d8e-339b-4313-a0c4-60ecb06dfe80" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A18379d52-1150-4a2f-a548-108be871c9a0" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="3" pname="a"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A9631d055-4424-49d2-b00f-64fb1379f354" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="3" pname="b"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A08568c44-8883-4b76-ae95-9d42a536122c" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A8ccd1d8e-339b-4313-a0c4-60ecb06dfe80" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A18379d52-1150-4a2f-a548-108be871c9a0" dur="minima" oct="3" pname="a"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A9631d055-4424-49d2-b00f-64fb1379f354" dur="minima" oct="3" pname="b"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A08568c44-8883-4b76-ae95-9d42a536122c" dur="minima" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Acc539f77-d23e-474b-bd1d-11e82c899cb9" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="semibrevis" oct="3" pname="a"/>
-                                <rest xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa9b2a961-ed8f-48ba-9394-816d56de155e" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A02079bbe-ea28-44af-a0bf-b3d456f202dd" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="4" pname="a"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Acc539f77-d23e-474b-bd1d-11e82c899cb9" dur="semibrevis" oct="3" pname="a"/>
+                                <rest xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa9b2a961-ed8f-48ba-9394-816d56de155e" dur="minima"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A02079bbe-ea28-44af-a0bf-b3d456f202dd" dur="minima" oct="4" pname="a"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Accaafd16-47dd-4b06-b758-e7924fd8cbd1" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="4" pname="a"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa6cc86ce-c99c-40bd-9bef-8bfb4b0cfc6f" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="4" pname="g"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A9c3df9f6-e28e-4d26-a0e6-988124d58473" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="semibrevis" oct="4" pname="f" dur.quality="perfecta" num="2" numbase="3"/>
-                                <dot xml:id="m-314dd5ba-e327-46e0-84de-44a69c10d50a" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" form="aug"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A4be2ebc1-7bb7-4e59-add1-cc9ffb4b9137" facs="#mdb9465f6-d497-4801-b4de-3d43326a9fc5" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa7d1d900-3318-4da5-bf12-ee65e30d5937" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima" oct="4" pname="d">
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Accaafd16-47dd-4b06-b758-e7924fd8cbd1" dur="minima" oct="4" pname="a"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa6cc86ce-c99c-40bd-9bef-8bfb4b0cfc6f" dur="minima" oct="4" pname="g"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A9c3df9f6-e28e-4d26-a0e6-988124d58473" dur="semibrevis" oct="4" pname="f" dur.quality="perfecta" num="2" numbase="3"/>
+                                <dot xml:id="m-314dd5ba-e327-46e0-84de-44a69c10d50a" form="aug"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A4be2ebc1-7bb7-4e59-add1-cc9ffb4b9137" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa7d1d900-3318-4da5-bf12-ee65e30d5937" dur="minima" oct="4" pname="d">
                                     <verse xml:id="m-7748150c-805e-470c-9011-3f204230cc16" color="black" n="1">
                                         <syl xml:id="m-915b67ff-b3a8-406b-b50d-1584e4ef60a9" con="b">27v.jpg,</syl>
                                         <syl xml:id="m-d29b5a24-8b37-44ea-9f1d-8533a1dee430" con="b">p1,</syl>
                                         <syl xml:id="m-c726c331-d16e-4044-815a-601c1f186aba">s8</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A54eec135-b3b1-4b93-9dea-d1a6b2e71df8" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima" oct="3" pname="b"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A54eec135-b3b1-4b93-9dea-d1a6b2e71df8" dur="minima" oct="3" pname="b"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A367274d3-ccf9-4f43-8083-679d11e0b81f" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A1a161a77-d1de-49e7-8f0b-df05083f9889" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima" oct="4" pname="e"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A0a6e5f5f-c93c-426d-91a7-f0ca104da7a9" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A8d999377-a7da-4ccd-acf4-b5c992f489b9" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="semibrevis" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa025813e-8384-4a14-9a0e-2490c9aff497" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima" oct="3" pname="b"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A041dd1d6-9a3e-4389-8e2d-e8d0b14f92ac" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="brevis" oct="4" pname="c"/>
-                                <rest xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A8694378a-ba90-4a8a-96f9-fb9ce6c5d8c9" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="semibrevis"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A367274d3-ccf9-4f43-8083-679d11e0b81f" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A1a161a77-d1de-49e7-8f0b-df05083f9889" dur="minima" oct="4" pname="e"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A0a6e5f5f-c93c-426d-91a7-f0ca104da7a9" dur="minima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A8d999377-a7da-4ccd-acf4-b5c992f489b9" dur="semibrevis" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa025813e-8384-4a14-9a0e-2490c9aff497" dur="minima" oct="3" pname="b"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A041dd1d6-9a3e-4389-8e2d-e8d0b14f92ac" dur="brevis" oct="4" pname="c"/>
+                                <rest xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A8694378a-ba90-4a8a-96f9-fb9ce6c5d8c9" dur="semibrevis"/>
                                 <barLine form="dashed"/>
-                                <rest xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A472a48eb-d1b0-4c6c-918a-d087331c8c1c" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A72e97c41-8053-478a-84fa-4b210431c031" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima" oct="3" pname="g"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A585e640d-c4d3-4b6e-bdfe-6724a5f59ed2" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="semiminima" oct="3" pname="a"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6cd8ede8-2fae-446f-84ca-d3c820242bca" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="semiminima" oct="3" pname="b"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A903159c9-1ef1-49f5-9887-0e1ad5957930" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="semiminima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A4542eae6-e915-43ee-8db2-b4749bc475e9" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="semiminima" oct="4" pname="d"/>
+                                <rest xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A472a48eb-d1b0-4c6c-918a-d087331c8c1c" dur="minima"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A72e97c41-8053-478a-84fa-4b210431c031" dur="minima" oct="3" pname="g"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A585e640d-c4d3-4b6e-bdfe-6724a5f59ed2" dur="semiminima" oct="3" pname="a"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6cd8ede8-2fae-446f-84ca-d3c820242bca" dur="semiminima" oct="3" pname="b"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A903159c9-1ef1-49f5-9887-0e1ad5957930" dur="semiminima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A4542eae6-e915-43ee-8db2-b4749bc475e9" dur="semiminima" oct="4" pname="d"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A51f96837-9d70-49ad-835c-43c0012caf2e" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima" oct="4" pname="e" dur.quality="perfecta" num="2" numbase="3"/>
-                                <dot xml:id="m-0d6e1605-e00b-45c4-9bf1-a76a574c12ed" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" form="aug"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A315b14d0-7c7e-47fa-aeb2-bf447e960795" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="semiminima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Afd2c700e-f850-4e85-8e9c-124b10849153" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A1eef3cc3-2e1e-4390-8e08-608dc90908b5" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima" oct="3" pname="a"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A51f96837-9d70-49ad-835c-43c0012caf2e" dur="minima" oct="4" pname="e" dur.quality="perfecta" num="2" numbase="3"/>
+                                <dot xml:id="m-0d6e1605-e00b-45c4-9bf1-a76a574c12ed" form="aug"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A315b14d0-7c7e-47fa-aeb2-bf447e960795" dur="semiminima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Afd2c700e-f850-4e85-8e9c-124b10849153" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A1eef3cc3-2e1e-4390-8e08-608dc90908b5" dur="minima" oct="3" pname="a"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A9cd570d2-97fc-4976-b8c7-00721fcf4f91" facs="#mf2786b3a-7db1-4e81-9297-f63bfe99e9cf" dur="minima" oct="3" pname="b"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aea1347e9-9f5f-4586-afc2-dd0a7908af82" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="e">
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A9cd570d2-97fc-4976-b8c7-00721fcf4f91" dur="minima" oct="3" pname="b"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aea1347e9-9f5f-4586-afc2-dd0a7908af82" dur="minima" oct="4" pname="e">
                                     <verse xml:id="m-5c5f9409-3ed4-496f-a61d-89f62c40bfff" color="black" n="1">
                                         <syl xml:id="m-2263e26a-564b-4200-89b4-693ab3fbf03f" con="b">27v.jpg,</syl>
                                         <syl xml:id="m-16dee490-9654-4552-90fd-e681850696b4" con="b">p1,</syl>
                                         <syl xml:id="m-80d2b07b-7d8d-403a-a1a3-8f9b007210fc">s9</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Af6f80ee3-7b02-4eae-bc32-c3af051176e9" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A0164f2cb-d005-4d73-8437-c7491cb6547b" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Af6f80ee3-7b02-4eae-bc32-c3af051176e9" dur="minima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A0164f2cb-d005-4d73-8437-c7491cb6547b" dur="minima" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Ad91202be-55c7-4761-a50c-f709c4f91733" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="brevis" oct="4" pname="f"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Ad91202be-55c7-4761-a50c-f709c4f91733" dur="brevis" oct="4" pname="f"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa80b7ff4-1ea8-40af-8cf2-2caccaf39b3f" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="e"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A51bf620c-3dab-4ae7-8f10-c17c860db012" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A63fd0c9b-b484-4b02-a1f7-52119c51634a" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa26ecaa1-5f24-4d1b-893d-2f7df64b0a9a" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa80b7ff4-1ea8-40af-8cf2-2caccaf39b3f" dur="minima" oct="4" pname="e"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A51bf620c-3dab-4ae7-8f10-c17c860db012" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A63fd0c9b-b484-4b02-a1f7-52119c51634a" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa26ecaa1-5f24-4d1b-893d-2f7df64b0a9a" dur="minima" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A5a3ab962-605a-47d5-9805-03f0eb0b220d" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Abfb95b14-bd78-4929-8b3a-c4506f9fde0f" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="e" dur.quality="perfecta" num="2" numbase="3"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A5a3ab962-605a-47d5-9805-03f0eb0b220d" dur="minima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Abfb95b14-bd78-4929-8b3a-c4506f9fde0f" dur="minima" oct="4" pname="e" dur.quality="perfecta" num="2" numbase="3"/>
                                 <dot xml:id="m-831ee119-1085-488f-af72-20d38bea0587" form="aug"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa6b5eaab-3d82-4075-b910-950f37add8eb" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="semiminima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A607a1ec2-efbc-42f0-b75d-9e1eb9eff178" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="semiminima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aef1263f1-e148-4dcb-92ee-a27e3bc35a97" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="semiminima" oct="3" pname="b"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aa6b5eaab-3d82-4075-b910-950f37add8eb" dur="semiminima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A607a1ec2-efbc-42f0-b75d-9e1eb9eff178" dur="semiminima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Aef1263f1-e148-4dcb-92ee-a27e3bc35a97" dur="semiminima" oct="3" pname="b"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6bd6c578-344a-4d2e-94ff-bf9a54bcfb53" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="semibrevis" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A0a773659-6742-4b63-a57d-d063426d8364" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="semibrevis" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6bd6c578-344a-4d2e-94ff-bf9a54bcfb53" dur="semibrevis" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A0a773659-6742-4b63-a57d-d063426d8364" dur="semibrevis" oct="4" pname="d"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A52e567b6-9561-4963-b063-b3a8c0869b35" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="e"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Acc321634-c4fd-4b3b-8134-81ed489d814f" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A916ec0f0-e25c-4666-837b-5969a93c02f3" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A3c26c6d9-6d26-4c81-b1a3-fbf38d16668a" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A52e567b6-9561-4963-b063-b3a8c0869b35" dur="minima" oct="4" pname="e"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Acc321634-c4fd-4b3b-8134-81ed489d814f" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A916ec0f0-e25c-4666-837b-5969a93c02f3" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A3c26c6d9-6d26-4c81-b1a3-fbf38d16668a" dur="minima" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
                                 <ligature xml:id="m-29afdf61-322f-4682-995f-e63c9c883d88">
-                                    <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A74314821-5c9c-4cdd-a3ec-cc852aa84245" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="semibrevis" oct="4" pname="d"/>
-                                    <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6478736a-702a-4484-963c-a37ab56f7134" facs="#mfef70f84-185a-48e4-8df2-394d1e58fb2c" dur="semibrevis" oct="4" pname="e"/>
+                                    <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A74314821-5c9c-4cdd-a3ec-cc852aa84245" dur="semibrevis" oct="4" pname="d"/>
+                                    <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A6478736a-702a-4484-963c-a37ab56f7134" dur="semibrevis" oct="4" pname="e"/>
                                 </ligature>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A31d99cc0-e608-4e87-8af2-75370456475f" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="minima" oct="3" pname="a">
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A31d99cc0-e608-4e87-8af2-75370456475f" dur="minima" oct="3" pname="a">
                                     <verse xml:id="m-11121338-bdef-4944-9132-4cfb647ef004" color="black" n="1">
                                         <syl xml:id="m-e5a8a9ca-2bce-4ec4-8491-7c7f3a404520" con="b">27v.jpg,</syl>
                                         <syl xml:id="m-ae65d223-a493-4892-941d-4a95ee1803f6" con="b">p1,</syl>
                                         <syl xml:id="m-b1b21f1a-6f1b-4eed-aa07-927aa4bfded4">s10</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A744cc6ce-f112-4225-8b16-a11c82ca161e" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Afbc466e8-5e73-450f-9ddd-f3da97b5b763" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A2671b46d-7952-4074-abf4-22c046c6d80f" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A744cc6ce-f112-4225-8b16-a11c82ca161e" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Afbc466e8-5e73-450f-9ddd-f3da97b5b763" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A2671b46d-7952-4074-abf4-22c046c6d80f" dur="minima" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A716ad73e-e7fb-4aa7-ab0b-06ee5f49707f" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="minima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A31390c5b-ea39-4d8f-80cf-55f1c74d66f8" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="minima" oct="4" pname="e" dur.quality="perfecta" num="2" numbase="3"/>
-                                <dot xml:id="m-bd6eb440-0b97-4630-99d9-2acc0c3392ce" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" form="aug"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A5d4857a6-d4b2-48fe-ba33-6aeee91e5f1d" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="semiminima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Ae99baa71-60f0-4a45-9d47-64e976215fe4" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="semiminima" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Acff7a14c-27c3-41dc-b7bc-7f71bde2189e" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="semiminima" oct="3" pname="b"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A716ad73e-e7fb-4aa7-ab0b-06ee5f49707f" dur="minima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A31390c5b-ea39-4d8f-80cf-55f1c74d66f8" dur="minima" oct="4" pname="e" dur.quality="perfecta" num="2" numbase="3"/>
+                                <dot xml:id="m-bd6eb440-0b97-4630-99d9-2acc0c3392ce" form="aug"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A5d4857a6-d4b2-48fe-ba33-6aeee91e5f1d" dur="semiminima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Ae99baa71-60f0-4a45-9d47-64e976215fe4" dur="semiminima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Acff7a14c-27c3-41dc-b7bc-7f71bde2189e" dur="semiminima" oct="3" pname="b"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Af181774e-f590-46c5-ba31-42ff0a546c61" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="semibrevis" oct="4" pname="c"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A382c966d-1111-473b-b7b7-42bd6d9346d2" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="minima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A2d06e704-e152-4497-b81b-6aa9b959212b" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="semibrevis" oct="4" pname="e"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A9b1943bc-5168-40a5-8a79-139ce7b18fe5" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="semiminima" oct="4" pname="d"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Acf8e4e7b-e5e3-46f6-abf4-cc704d75a3be" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="semiminima" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Af181774e-f590-46c5-ba31-42ff0a546c61" dur="semibrevis" oct="4" pname="c"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A382c966d-1111-473b-b7b7-42bd6d9346d2" dur="minima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A2d06e704-e152-4497-b81b-6aa9b959212b" dur="semibrevis" oct="4" pname="e"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A9b1943bc-5168-40a5-8a79-139ce7b18fe5" dur="semiminima" oct="4" pname="d"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_Acf8e4e7b-e5e3-46f6-abf4-cc704d75a3be" dur="semiminima" oct="4" pname="c"/>
                                 <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A8db8cd1d-83cf-4df7-9dec-6c3bae4600ce" dur="semibrevis" oct="3" pname="b"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A08fa5560-1c98-43b6-a41d-caf9e30bbc1e" facs="#mf0e798a8-244d-404a-919b-146ef36aa6af" dur="brevis" oct="3" pname="a"/>
+                                <note xml:id="PART8f54a6ca-18aa-4245-bc73-96f5b32101ac_A08fa5560-1c98-43b6-a41d-caf9e30bbc1e" dur="brevis" oct="3" pname="a"/>
                                 <barLine form="dbl"/>
                             </layer>
                         </staff>
