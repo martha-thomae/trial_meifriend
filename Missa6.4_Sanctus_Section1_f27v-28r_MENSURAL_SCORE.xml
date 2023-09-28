@@ -333,6 +333,7 @@
                         </staff>
                         <staff n="2">
                             <layer n="1">
+                                <pb xml:id="pb2_top" facs="#m-2209f1f2-5703-4237-a55f-7685a1847ca6"/>
                                 <rest xml:id="PARTd2e181b5-fd4c-4b3f-be1c-4a62b8e55d7d_Aaa13e66c-1232-4cd7-92c9-e90b23de748b" dur="longa"/>
                                 <barLine form="dashed"/>
                                 <rest xml:id="PARTd2e181b5-fd4c-4b3f-be1c-4a62b8e55d7d_Aa290a4b2-cd3c-4eba-a256-64a07864814e" dur="brevis"/>
@@ -653,6 +654,7 @@
                         </staff>
                         <staff n="4">
                             <layer n="1">
+                                <pb xml:id="pb2_bottom" facs="#m-2209f1f2-5703-4237-a55f-7685a1847ca6"/>
                                 <rest xml:id="PARTa2378298-c6e9-4d8a-93aa-e29dd7cac419_Ae915b461-4429-4d91-b0a6-9127cb1559c2" dur="longa"/>
                                 <barLine form="dashed"/>
                                 <rest xml:id="PARTa2378298-c6e9-4d8a-93aa-e29dd7cac419_Ab806ca19-e676-4992-b673-a867de15a681" dur="longa"/>
